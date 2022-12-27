@@ -1,0 +1,40 @@
+﻿# BB default blocklist
+# Blocking mobile ad providers
+#
+
+
+127.0.0.1  localhost
+::1  localhost
+
+
+# [adroll.com]
+127.0.0.1 adroll.com
+127.0.0.1 adx-winners-ap-southeast-1-rtb.adroll.com
+127.0.0.1 adx-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 adx-winners-us-east-1-rtb.adroll.com
+127.0.0.1 adx-winners-us-west-2-rtb.adroll.com
+127.0.0.1 apn-winners-ap-southeast-1-rtb.adroll.com
+127.0.0.1 apn-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 apn-winners-us-east-1-rtb.adroll.com
+127.0.0.1 apn-winners-us-west-2-rtb.adroll.com
+127.0.0.1 app.adroll.com
+127.0.0.1 d.adroll.com
+127.0.0.1 index-winners-ap-southeast-1-rtb.adroll.com
+127.0.0.1 index-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 index-winners-us-east-1-rtb.adroll.com
+127.0.0.1 index-winners-us-west-2-rtb.adroll.com
+127.0.0.1 opx-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 opx-winners-us-east-1-rtb.adroll.com
+127.0.0.1 opx-winners-us-west-2-rtb.adroll.com
+127.0.0.1 pubmatic-winners-ap-northeast-1-rtb.adroll.com
+127.0.0.1 pubmatic-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 pubmatic-winners-us-east-1-rtb.adroll.com
+127.0.0.1 pubmatic-winners-us-west-2-rtb.adroll.com
+127.0.0.1 rub-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 rub-winners-us-east-1-rtb.adroll.com
+127.0.0.1 rub-winners-us-west-2-rtb.adroll.com
+127.0.0.1 s.adroll.com
+127.0.0.1 yax-winners-ap-southeast-1-rtb.adroll.com
+127.0.0.1 yax-winners-eu-west-1-rtb.adroll.com
+127.0.0.1 yax-winners-us-east-1-rtb.adroll.com
+127.0.0.1 yax-winners-us-west-2-rtb.adroll.com
